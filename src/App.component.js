@@ -1,7 +1,7 @@
 import React from 'react';
+import "./app.css"
 
 function App() {
-  console.log(process.env);
   return (
     <React.Fragment>
       <h1>This is my first App</h1>
